@@ -7,5 +7,10 @@
 [id="foreman-upgrade-warnings"]
 == Upgrade Warnings
 
+=== Google Compute resouce as plugin
+
+Google compute resource have been extracted to the [Foreman Google](https://github.com/theforeman/foreman_google) plugin.
+
 [id="foreman-deprecations"]
+
 == Deprecations
